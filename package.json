@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/pablogeokar/electronjs-sistema#readme",
   "devDependencies": {
-    "electron": "^3.0.2",
+    "electron": "^9.4.0",
     "electron-packager": "^12.2.0"
   },
   "dependencies": {
